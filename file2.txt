@@ -2,3 +2,5 @@ File2.txt
 
 My favorite classes
 Stats 131
+
+Propose: Stats 102A
